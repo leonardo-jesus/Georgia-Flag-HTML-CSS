@@ -1,6 +1,6 @@
 <h1 align="center">
     Original:<br><br>
-    <img alt="Georgia Flag" title="Georgia Flag" src="https://upload.wikimedia.org/wikipedia/commons/thumb/0/0f/Flag_of_Georgia.svg/1200px-Flag_of_Georgia.svg.png" width="220px" />
+    <img alt="Georgia Flag" title="Georgia Flag" src="https://w7.pngwing.com/pngs/21/416/png-transparent-democratic-republic-of-georgia-turkey-europe-flag-of-georgia-plus-border-flag-rectangle.png" width="220px" />
 </h1>
 
 <p align="center">
