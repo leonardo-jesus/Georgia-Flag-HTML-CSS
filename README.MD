@@ -1,6 +1,6 @@
 <h1 align="center">
     Original:<br><br>
-    <img alt="Georgia Flag" title="Georgia Flag" src="https://w7.pngwing.com/pngs/21/416/png-transparent-democratic-republic-of-georgia-turkey-europe-flag-of-georgia-plus-border-flag-rectangle.png" width="220px" />
+    <img alt="Georgia Flag" title="Georgia Flag" src="https://mpng.subpng.com/20180602/fby/kisspng-flag-of-georgia-national-flag-georgian-abstract-indian-flag-theme-5b129119a74079.8640142115279434496851.jpg" width="220px" />
 </h1>
 
 <p align="center">
@@ -20,7 +20,7 @@
 
 <h1 align="center">
   My project:<br><br>
-  <img alt="Georgia Flag" title="Georgia Flag" src="./georgia-flag.png" width="100%" />
+  <img alt="Georgia Flag" title="Georgia Flag" src="./gerogia-flag.png" width="100%" />
 </h1>
 
 ## 🚀 Technologies
