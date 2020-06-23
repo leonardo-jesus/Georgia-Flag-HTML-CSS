@@ -1,0 +1,59 @@
+body {
+  width: 100vw;
+  /* A bandeira, com id #flag, eu já tinha era esquecido que tava programando com vc ue kkkkkk, pq? */
+  height: 100vh;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  background-color: darkgray;
+}
+
+#flag {
+  width: 700px;
+  /* Vou começar explicando a largura, temos 700px de largura certo?? Então temos 700px para trabalhar! */
+  height: 450px;
+  background-color: white;
+  display: flex;
+  flex-wrap: wrap;
+}
+
+.square {
+  width: 297px;
+  /* Aqui o nosso quadrado tem exatamente 297 px, ai você pode pensar que é um número aleatório, mas não!!!!!! Ele tem 297px, pq a borda dele também ocupa espaço*/
+  height: 172px;
+  justify-content: center;
+  align-items: center;
+  display: flex;
+}
+
+#square-top-left,
+#square-bottom-left {
+  border-right: 53px solid red;
+  /* Por isso essa borda do top-left tem 53px */
+}
+
+#square-top-right,
+#square-bottom-right {
+  border-left: 53px solid red;
+  /* E por isso essa borda do top-right tem 53px */
+}
+
+
+/* Então se você somar, são 297 px do top-left + 53px da top-left border-right +297px do top-right +53px do top-right border-left, totalizando = 350 px de cada lado, a metade do retângulo de 700px de largura, entendi, viu que doideira? E a mesma coisa funciona na altura, porém são 225px para cada quadrado, perai!, são */
+
+
+/* Resumindo (TOP-LEFT + BORDER-RIGHT) + (TOP-RIGHT + BORDER-LEFT)
+             (  297px  +     53px    ) + (    297px  +    53px   )
+                         350px         +            350px
+                                      700px                                              
+*/
+
+#square-top-left,
+#square-top-right {
+  border-bottom: 53px solid red;
+}
+
+#square-bottom-left,
+#square-bottom-right {
+  border-top: 53px solid red;
+}
